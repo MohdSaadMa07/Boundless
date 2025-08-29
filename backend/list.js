@@ -1,0 +1,68 @@
+const booksArrays = [
+  {
+    "id": 1,
+    "name": "Harry Potter and the Sorcerer's Stone",
+    "title": "A thrilling tale of magic, friendship, and adventure at Hogwarts.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://covers.openlibrary.org/b/id/7984916-L.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Learning React",
+    "title": "Master modern React development with hands-on projects and tutorials.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://m.media-amazon.com/images/I/816HBXHJsaL._SY385_.jpg"
+  },
+  {
+    "id": 3,
+    "name": "The Musician’s Guide",
+    "title": "Explore the fundamentals of music theory and practice.",
+    "price": 100,
+    "category": "Song",
+    "image": "https://covers.openlibrary.org/b/id/8231856-L.jpg"
+  },
+  {
+    "id": 4,
+    "name": "The Art Book",
+    "title": "Dive into the world of painting, colors, and creativity.",
+    "price": 150,
+    "category": "Art",
+    "image": "https://covers.openlibrary.org/b/id/554106-L.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Science Book",
+    "title": "Unlock the mysteries of the universe through engaging science content.",
+    "price": 120,
+    "category": "Education",
+    "image": "https://covers.openlibrary.org/b/id/240727-L.jpg"
+  },
+  {
+    "id": 6,
+    "name": "A History of the World",
+    "title": "Travel back in time and learn about world-changing events.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://covers.openlibrary.org/b/id/240726-L.jpg"
+  },
+  {
+    "id": 7,
+    "name": "The Hobbit",
+    "title": "A journey through magical lands filled with dragons and heroes.",
+    "price": 150,
+    "category": "Free",
+    "image": "https://covers.openlibrary.org/b/id/6979861-L.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Eloquent JavaScript",
+    "title": "Learn how to code modern web applications from scratch.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://eloquentjavascript.net/img/cover.jpg"
+  }
+]
+
+export default booksArrays;
